@@ -1,6 +1,6 @@
 # Olá! Eu sou Gustavo Viana 👋
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º semestre)
 - 💡 Apaixonado por tecnologia e aprendizado contínuo
 - 🔧 Tenho facilidade para compreender novas linguagens de programação e me adapto rapidamente a diferentes tecnologias.
 - 📑 Sei lidar bem com documentação técnica, garantindo clareza e organização no trabalho.
