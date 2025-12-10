@@ -37,7 +37,7 @@ Atualmente desenvolvo projetos pessoais e freelas envolvendo e-commerce, SPAs e 
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
 </div>
-##
+
 
 
 
