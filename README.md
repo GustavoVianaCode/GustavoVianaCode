@@ -1,7 +1,6 @@
 # Olá! Eu sou Gustavo Viana 
 
 🎓 **Formado em Análise e Desenvolvimento de Sistemas** pelo IFCE.
-📍 Mossoró, RN — Brasil
 💻 Desenvolvedor **Full-Stack** focado em **Front-End (React, Vue, TypeScript)** e com sólida experiência em **Back-End (Node.js, NestJS, Java, Python, PHP)**.
 🚀 Experiência na criação de interfaces modernas, acessíveis e responsivas, além de projetos freelance envolvendo e-commerce (SPAs e Nuvemshop) e desenvolvimento de aplicações web completas.
 
