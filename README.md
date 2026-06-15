@@ -24,10 +24,12 @@ Atualmente, dedico-me ao desenvolvimento de projetos paralelos, como a aplicaç�
   <tr>
     <td align="center" width="50%">
       <b>🌐 Front-End</b><br><br>
+      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
+      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
+      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
       <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
       <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue.js">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
-      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
       <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS">
     </td>
     <td align="center" width="50%">
@@ -59,7 +61,6 @@ Atualmente, dedico-me ao desenvolvimento de projetos paralelos, como a aplicaç�
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📊 Estatísticas do GitHub
