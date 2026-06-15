@@ -1,8 +1,8 @@
-# Olá! Eu sou Gustavo Viana 👋
+# Olá! Eu sou Gustavo Viana 
 
 🎓 **Formado em Análise e Desenvolvimento de Sistemas** pelo IFCE.
 📍 Mossoró, RN — Brasil
-💻 Desenvolvedor **Full-Stack** focado em **Front-End (React, Vue, TypeScript)** e com sólida experiência em **Back-End (Node.js, Java, Python, PHP)**.
+💻 Desenvolvedor **Full-Stack** focado em **Front-End (React, Vue, TypeScript)** e com sólida experiência em **Back-End (Node.js, NestJS, Java, Python, PHP)**.
 🚀 Experiência na criação de interfaces modernas, acessíveis e responsivas, além de projetos freelance envolvendo e-commerce (SPAs e Nuvemshop) e desenvolvimento de aplicações web completas.
 
 Tenho facilidade em aprender novas tecnologias, lidar com documentação técnica e trabalhar em equipe para entregar soluções práticas e organizadas. 
@@ -31,14 +31,18 @@ Atualmente, dedico-me ao desenvolvimento de projetos paralelos, como a aplicaç�
 
 <br>
 
-**Back-End & Banco de Dados:**
+**Back-End, Mobile & Banco de Dados:**
 <div>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="NestJS">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" title="Prisma">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQLite">
 </div>
 
 <br>
@@ -48,6 +52,8 @@ Atualmente, dedico-me ao desenvolvimento de projetos paralelos, como a aplicaç�
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
+  <img align="center" height="32" src="https://img.shields.io/badge/Nuvemshop-211A4D?style=for-the-badge&logoColor=white" title="Nuvemshop">
 </div>
 
 ---
