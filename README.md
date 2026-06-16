@@ -1,4 +1,4 @@
-# Olá! Eu sou Gustavo Viana 👋
+# Olá! Eu sou Gustavo Viana
 
 - 🎓 **Formado em Análise e Desenvolvimento de Sistemas** pelo IFCE.
 - 💻 Desenvolvedor **Full-Stack** focado em **Front-End (React, Vue, TypeScript)** e com sólida experiência em **Back-End (Node.js, NestJS, Java, Python)**.
