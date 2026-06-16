@@ -7,8 +7,6 @@
 Tenho facilidade em aprender novas tecnologias, lidar com documentação técnica e trabalhar em equipe para entregar soluções práticas e organizadas. 
 Atualmente, dedico-me ao desenvolvimento de projetos paralelos, como a aplicação web **Valugar** e uma **Pokedex** estruturada no Android Studio.
 
-🎲 **Além do código:** Sou o criador do sistema de RPG de mesa "Os Marcados", cosplayer, jogador focado no competitivo de Pokémon e um grande entusiasta de hardware e montagem de PCs de alta performance.
-
 ### 🌐 Conecte-se comigo:
 <div> 
   <a href="mailto:vianagust4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
