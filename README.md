@@ -53,8 +53,6 @@ Atualmente, dedico-me ao desenvolvimento de projetos freelancers.
       <img height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code">
       <img height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio">
       <img height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
-      <br><br>
-      <img height="26" src="https://img.shields.io/badge/Nuvemshop-211A4D?style=for-the-badge&logoColor=white" title="Nuvemshop">
     </td>
   </tr>
 </table>
